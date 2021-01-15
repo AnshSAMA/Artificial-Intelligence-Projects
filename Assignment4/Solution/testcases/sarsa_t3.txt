@@ -1,0 +1,14 @@
+gamma: 0.95
+method: sarsa
+benchmark: -25
+time_limit: 40
+initial_seed: 505
+########
+## IIF #
+#  WWIW#
+#I###I #
+#I    ##
+#II #I #
+# III  #
+### >  #
+########
